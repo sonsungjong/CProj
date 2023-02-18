@@ -128,6 +128,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CProj.c" />
+    <ClCompile Include="operator1.c" />
+    <ClCompile Include="operator2.c" />
+    <ClCompile Include="operator3.c" />
+    <ClCompile Include="operator4.c" />
+    <ClCompile Include="print1.c" />
+    <ClCompile Include="variable1.c" />
+    <ClCompile Include="variable2.c" />
+    <ClCompile Include="variable3.c" />
+    <ClCompile Include="variable4.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

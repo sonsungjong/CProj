@@ -1,6 +1,6 @@
 ﻿#include <stdio.h>
 
-int main() {
+int main0() {
 	printf("안녕하세요\n");
 	printf("반갑습니다");
 

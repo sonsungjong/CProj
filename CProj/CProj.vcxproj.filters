@@ -18,5 +18,32 @@
     <ClCompile Include="CProj.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="print1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="operator4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

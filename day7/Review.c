@@ -1,4 +1,5 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+﻿// SDL검사 : 아니오
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 // 함수를 만드는 법 (함수 정의) : 소괄호, 중괄호
@@ -24,7 +25,7 @@ double MyFunction4(int n1, int n2) {
 	return result;
 }
 
-int main() {
+int main0() {
 	// 함수를 사용하는 법 : 소괄호까지만
 	MyFunction1();
 	MyFunction1();    // 코드를 저장해놓고 
